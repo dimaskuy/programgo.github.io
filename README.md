@@ -4,4 +4,4 @@ This is a simple landing page website for freeCodeCamp's responsive web design p
 
 # Tools
 
-Create using HTML5 & CSS3, and some icons (Bootstrap Icons & Font Awesome).
+Created using HTML5 & CSS3, and some icons (Bootstrap Icons & Font Awesome).
